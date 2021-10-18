@@ -1,0 +1,3 @@
+INFO    2021-10-18 10:03:47,634 [main] Utils.SeleniumDriverClass  - Config Properties loaded !!!
+INFO    2021-10-18 10:03:51,473 [main] Utils.SeleniumDriverClass  - Chrome Browser Launched !!!
+INFO    2021-10-18 10:03:51,473 [main] Utils.SeleniumDriverClass  - Navigating to the URL : http://automationpractice.com/index.php
